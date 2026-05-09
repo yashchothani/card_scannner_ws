@@ -1,0 +1,11 @@
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/uninstall.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/card_scanner_uninstall.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/ament_cmake_python_symlink_card_scanner.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/ament_cmake_python_build_card_scanner_egg.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/test.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/edit_cache.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/rebuild_cache.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/list_install_components.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/install.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/install/local.dir
+/home/yash_2280/card_scanner_ws/build/card_scanner/CMakeFiles/install/strip.dir

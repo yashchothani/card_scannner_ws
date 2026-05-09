@@ -1,0 +1,1 @@
+/home/yash_2280/card_scanner_ws/build/card_scanner/ament_cmake_environment_hooks/local_setup.zsh

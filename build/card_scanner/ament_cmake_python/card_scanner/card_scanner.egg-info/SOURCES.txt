@@ -1,0 +1,7 @@
+setup.py
+card_scanner/__init__.py
+card_scanner/card_scanner_node.py
+card_scanner.egg-info/PKG-INFO
+card_scanner.egg-info/SOURCES.txt
+card_scanner.egg-info/dependency_links.txt
+card_scanner.egg-info/top_level.txt

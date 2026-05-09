@@ -1,0 +1,42 @@
+[0.010s] Invoking command in '/home/yash_2280/card_scanner_ws/build/card_scanner': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --build /home/yash_2280/card_scanner_ws/build/card_scanner -- -j4 -l4
+[0.071s] Built target ament_cmake_python_symlink_card_scanner
+[0.261s] running egg_info
+[0.272s] writing card_scanner.egg-info/PKG-INFO
+[0.273s] writing dependency_links to card_scanner.egg-info/dependency_links.txt
+[0.273s] writing top-level names to card_scanner.egg-info/top_level.txt
+[0.306s] reading manifest file 'card_scanner.egg-info/SOURCES.txt'
+[0.307s] writing manifest file 'card_scanner.egg-info/SOURCES.txt'
+[0.331s] Built target ament_cmake_python_build_card_scanner_egg
+[0.339s] Invoked command in '/home/yash_2280/card_scanner_ws/build/card_scanner' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --build /home/yash_2280/card_scanner_ws/build/card_scanner -- -j4 -l4
+[0.346s] Invoking command in '/home/yash_2280/card_scanner_ws/build/card_scanner': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --install /home/yash_2280/card_scanner_ws/build/card_scanner
+[0.352s] -- Install configuration: ""
+[0.353s] -- Execute custom install script
+[0.353s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/pythonpath.sh
+[0.353s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/pythonpath.dsv
+[0.353s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner-1.0.0-py3.10.egg-info/PKG-INFO
+[0.353s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.353s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.354s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner-1.0.0-py3.10.egg-info/top_level.txt
+[0.354s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner/__init__.py
+[0.354s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner/card_scanner_node.py
+[0.355s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/lib/card_scanner/card_scanner_node.py
+[0.355s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/launch/card_scanner.launch.py
+[0.355s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/config/params.yaml
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/package_run_dependencies/card_scanner
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/parent_prefix_path/card_scanner
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/ament_prefix_path.sh
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/ament_prefix_path.dsv
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/path.sh
+[0.357s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/path.dsv
+[0.358s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.bash
+[0.358s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.sh
+[0.358s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.zsh
+[0.358s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.dsv
+[0.358s] -- Symlinking: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/package.dsv
+[0.361s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/packages/card_scanner
+[0.362s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/cmake/card_scannerConfig.cmake
+[0.362s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/cmake/card_scannerConfig-version.cmake
+[0.362s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/package.xml
+[0.393s] Listing '/home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner'...
+[0.393s] Compiling '/home/yash_2280/card_scanner_ws/install/card_scanner/local/lib/python3.10/dist-packages/card_scanner/card_scanner_node.py'...
+[0.398s] Invoked command in '/home/yash_2280/card_scanner_ws/build/card_scanner' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --install /home/yash_2280/card_scanner_ws/build/card_scanner

@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/yash_2280/card_scanner_ws/build/card_scanner': CMAKE_PREFIX_PATH=/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --build /home/yash_2280/card_scanner_ws/build/card_scanner -- -j4 -l4
+[0.078s] Invoked command in '/home/yash_2280/card_scanner_ws/build/card_scanner' returned '0': CMAKE_PREFIX_PATH=/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --build /home/yash_2280/card_scanner_ws/build/card_scanner -- -j4 -l4
+[0.085s] Invoking command in '/home/yash_2280/card_scanner_ws/build/card_scanner': CMAKE_PREFIX_PATH=/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --install /home/yash_2280/card_scanner_ws/build/card_scanner
+[0.088s] -- Install configuration: ""
+[0.088s] -- Execute custom install script
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/card_scanner/__init__.py
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/card_scanner/card_scanner_node.py
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/launch/card_scanner.launch.py
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/config/params.yaml
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/lib/card_scanner/card_scanner_node.py
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/package_run_dependencies/card_scanner
+[0.089s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/parent_prefix_path/card_scanner
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/ament_prefix_path.sh
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/ament_prefix_path.dsv
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/path.sh
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/environment/path.dsv
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.bash
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.sh
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.zsh
+[0.090s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/local_setup.dsv
+[0.090s] -- Symlinking: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/package.dsv
+[0.095s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/ament_index/resource_index/packages/card_scanner
+[0.096s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/cmake/card_scannerConfig.cmake
+[0.096s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/cmake/card_scannerConfig-version.cmake
+[0.096s] -- Up-to-date symlink: /home/yash_2280/card_scanner_ws/install/card_scanner/share/card_scanner/package.xml
+[0.097s] Invoked command in '/home/yash_2280/card_scanner_ws/build/card_scanner' returned '0': CMAKE_PREFIX_PATH=/home/yash_2280/turtlebot3_ws/install/card_change_detector:/opt/ros/humble /usr/bin/cmake --install /home/yash_2280/card_scanner_ws/build/card_scanner
