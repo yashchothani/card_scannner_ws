@@ -1,3 +1,0 @@
-source;share/card_scanner/environment/ament_prefix_path.sh
-source;share/card_scanner/environment/path.sh
-source;share/card_scanner/environment/pythonpath.sh

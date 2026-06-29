@@ -1,1 +1,0 @@
-/home/yash_2280/card_scanner_ws/src/card_scanner/card_scanner/__init__.py
